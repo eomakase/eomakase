@@ -9,8 +9,7 @@
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
 </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomakase&show_icons=true&theme=dark)
 
 [![Solved.ac
 eomakase](http://mazassumnida.wtf/api/generate_badge?boj={eomakase})](https://solved.ac/{eomakase})
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eomakase&langs_count=8)](https://github.com/eomakase/github-readme-stats)
