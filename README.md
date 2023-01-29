@@ -12,3 +12,5 @@
 
 [![Solved.ac
 eomakase](http://mazassumnida.wtf/api/generate_badge?boj={eomakase})](https://solved.ac/{eomakase})
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eomakase&langs_count=8)](https://github.com/eomakase/github-readme-stats)
