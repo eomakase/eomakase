@@ -36,7 +36,7 @@
 
 <br/>
 	
-## 🎱 Problem Solving 🎱	
+## 🎱 Solving 🎱	
 
 <br/>
 	
