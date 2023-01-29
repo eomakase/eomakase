@@ -1,10 +1,10 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=EomakaseGithub&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=Eomakase&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=45)
 </div>
 
 <div align="center">
- 🚀한사람의 개발자가 되기 위해 험난한 여행중인 대학생입니다.🚀	
+ 🚀 한사람의 개발자가 되기 위해 험난한 여행중인 대학생입니다. 🚀	
 </div>
 <br/><br/><br/>
 
@@ -29,7 +29,8 @@
 <br/>
 	
 ![eomakase's GitHub stats](https://github-readme-stats.vercel.app/api?username=eomakase&show_icons=true&theme=apprentice)
-<br/>
+<br/><br/><br/>
+
 <div align="center">
  🎱 Problem Solving 🎱	
 </div>
