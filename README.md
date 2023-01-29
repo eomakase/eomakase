@@ -1,14 +1,15 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=300&section=header&text=EomakaseGithub&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=EomakaseGithub&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=45)
 
- 🚀Knowledge is power.🚀
+ ## 🚀Knowledge is power.🚀
 <br/><br/>
+	
  안녕하세요 한사람의 개발자가 되기 위해 노력중인 대학생입니다.
 
 <br/><br/><br/>
 
- ✏️ Learning ✏️ 
+ ## ✏️ Learning ✏️ 
 	
 
 <br/>
@@ -24,7 +25,7 @@
 <br/><br/>
 
 
- 🖥️ Life in Github 🖥️	
+## 🖥️ Life in Github 🖥️	
 
 
 <br/>
@@ -34,8 +35,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eomakase&layout=compact&theme=tokyonight)
 
 <br/>
- 🎱 Problem Solving 🎱	
-<br/><br/>
+	
+## 🎱 Problem Solving 🎱	
+
+<br/>
 	
 [![Solved.ac eomakase](http://mazassumnida.wtf/api/generate_badge?boj=eomakase)](https://solved.ac/eomakase)
 
