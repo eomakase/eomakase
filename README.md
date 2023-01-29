@@ -36,7 +36,7 @@
 
 <br/>
 	
-## 🎱 Solving 🎱	
+## 🎱 Current Solving 🎱	
 
 <br/>
 	
