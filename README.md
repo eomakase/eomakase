@@ -40,6 +40,6 @@
 
 <br/>
 	
-[![Solved.ac eomakase](http://mazassumnida.wtf/api/generate_badge?boj=eomakase)](https://solved.ac/eomakase)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eomakase)](https://solved.ac/eomakase/)
 
 </div>
