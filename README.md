@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=EomakaseGithub&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=45)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&section=header&text=EoMakaseGithub&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=45)
 
  ## 🚀Knowledge is power.🚀
 <br/><br/>
